@@ -1,2 +1,2 @@
 # ChatBot
- Chatbots baseados em regras e/ou dados
+ Chatbots baseados em regras e/ou dados.
